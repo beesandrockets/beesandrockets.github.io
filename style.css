@@ -1,0 +1,89 @@
+body{
+	margin: 0px;
+	background-image: url(foto6.jpg); 
+	background-repeat:repeat;
+	background-size:cover;
+	background-position: center center;
+	background-attachment: fixed;
+	height: 100%; 
+
+
+
+}
+
+h2{
+ color: white; 
+ text-align: center;
+ font-family: 'Old Standard TT', serif; 
+ font-size: 50px; 
+ margin-top: 30px;
+
+}
+
+h1{
+	 color: white; 
+	 text-align:center;
+	 font-family: 'Old Standard TT', serif; 
+	 font-size: 100px; 
+	 line-height: 20px; 
+	 margin-top: 30px;
+
+}
+
+.flex-container {
+	display: flex;
+	justify-content: center;
+}
+
+.btn-primary {
+
+ 		 font-family: 'Old Standard TT', serif;
+ 		 padding: 10px 15px 10px 15px; 
+
+ }
+
+
+.btn-primary:hover{
+
+	background-color: orange; 
+	border-color:orange; 
+
+ }
+
+ p {
+	font-size: 16px;
+	border-radius: 10px;
+	padding: 10px 10px;
+	background-color: rgba(0, 0, 0, 0.5);
+	color: white;
+	text-align: center;
+
+}
+
+.p1 {
+		margin-top: 300px;
+}
+.p2 {
+
+}
+
+
+.container {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
